@@ -30,3 +30,4 @@ D:\dotnet projects\dotnet projects\Web API with ASP.NET Core controllers\Contoso
 D:\dotnet projects\dotnet projects\Web API with ASP.NET Core controllers\ContosoPizza\obj\Debug\net8.0\ContosoPizza.pdb
 D:\dotnet projects\dotnet projects\Web API with ASP.NET Core controllers\ContosoPizza\obj\Debug\net8.0\ContosoPizza.genruntimeconfig.cache
 D:\dotnet projects\dotnet projects\Web API with ASP.NET Core controllers\ContosoPizza\obj\Debug\net8.0\ref\ContosoPizza.dll
+D:\dotnet projects\dotnet projects\Web API with ASP.NET Core controllers\ContosoPizza\obj\Debug\net8.0\ContosoPizza.sourcelink.json
